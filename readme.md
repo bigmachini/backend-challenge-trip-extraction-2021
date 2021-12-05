@@ -63,3 +63,12 @@ The `data` folder contains a sample of input and output data.
 ## Evaluation
 
 The focus of the evaluation will be clean, readable and tested code which follows best practices.
+
+
+##
+Remarks: I was not able to get the same distance as the trip json file
+I tried three libraries and the math function on calculating distance but
+none ws able to give the same distance
+
+For the last trip the time constraint doesnt meet the 5 min window within a 20m radius
+the difference in time is less that 300 secods
