@@ -71,4 +71,6 @@ I tried three libraries and the math function on calculating distance but
 none ws able to give the same distance
 
 For the last trip the time constraint doesnt meet the 5 min window within a 20m radius
-the difference in time is less that 300 secods
+the difference in time is less that 300 seconds
+
+ALso got some insight from here --> https://www.traccar.org/documentation/trips-stops/
